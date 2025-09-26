@@ -1,0 +1,5 @@
+print ("Welcome to Meddy's store!")
+name= input("What is your name?")
+print("Hello, " + name + "! Thank you for coming here!")
+age= input ("How old are you?")
+need= input("Great, what would you like to buy today?")
